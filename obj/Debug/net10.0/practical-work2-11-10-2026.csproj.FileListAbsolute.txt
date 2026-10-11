@@ -1,0 +1,14 @@
+C:\Users\vlone\OneDrive\Документы\GitHub\practical-work2-11-10-2026\bin\Debug\net10.0\practical-work2-11-10-2026.exe
+C:\Users\vlone\OneDrive\Документы\GitHub\practical-work2-11-10-2026\bin\Debug\net10.0\practical-work2-11-10-2026.deps.json
+C:\Users\vlone\OneDrive\Документы\GitHub\practical-work2-11-10-2026\bin\Debug\net10.0\practical-work2-11-10-2026.runtimeconfig.json
+C:\Users\vlone\OneDrive\Документы\GitHub\practical-work2-11-10-2026\bin\Debug\net10.0\practical-work2-11-10-2026.dll
+C:\Users\vlone\OneDrive\Документы\GitHub\practical-work2-11-10-2026\bin\Debug\net10.0\practical-work2-11-10-2026.pdb
+C:\Users\vlone\OneDrive\Документы\GitHub\practical-work2-11-10-2026\obj\Debug\net10.0\practical-work2-11-10-2026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlone\OneDrive\Документы\GitHub\practical-work2-11-10-2026\obj\Debug\net10.0\practical-work2-11-10-2026.AssemblyInfoInputs.cache
+C:\Users\vlone\OneDrive\Документы\GitHub\practical-work2-11-10-2026\obj\Debug\net10.0\practical-work2-11-10-2026.AssemblyInfo.cs
+C:\Users\vlone\OneDrive\Документы\GitHub\practical-work2-11-10-2026\obj\Debug\net10.0\practical-work2-11-10-2026.csproj.CoreCompileInputs.cache
+C:\Users\vlone\OneDrive\Документы\GitHub\practical-work2-11-10-2026\obj\Debug\net10.0\practical-work2-11-10-2026.dll
+C:\Users\vlone\OneDrive\Документы\GitHub\practical-work2-11-10-2026\obj\Debug\net10.0\refint\practical-work2-11-10-2026.dll
+C:\Users\vlone\OneDrive\Документы\GitHub\practical-work2-11-10-2026\obj\Debug\net10.0\practical-work2-11-10-2026.pdb
+C:\Users\vlone\OneDrive\Документы\GitHub\practical-work2-11-10-2026\obj\Debug\net10.0\practical-work2-11-10-2026.genruntimeconfig.cache
+C:\Users\vlone\OneDrive\Документы\GitHub\practical-work2-11-10-2026\obj\Debug\net10.0\ref\practical-work2-11-10-2026.dll
